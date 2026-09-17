@@ -1,0 +1,30 @@
+body {
+	background-color: #eef6ff;
+	color: #1f2937;
+	font-family: Arial, sans-serif;
+	line-height: 1.6;
+	margin: 0;
+}
+
+nav {
+	background-color: #0f4c81;
+	padding: 1rem;
+	text-align: center;
+}
+
+nav a {
+	color: #ffffff;
+	margin: 0 1rem;
+	text-decoration: none;
+}
+
+main {
+	background-color: #ffffff;
+	margin: 2rem auto;
+	max-width: 720px;
+	padding: 2rem;
+}
+
+h1 {
+	color: #0f4c81;
+}
